@@ -112,7 +112,7 @@ namespace TelegramBotCenter
                 chatAction: ChatAction.Typing,
                 cancellationToken: cancellationToken);
 
-            // Simulate longer running task
+            // Simulate longer running task666
             await Task.Delay(500, cancellationToken);
 
             InlineKeyboardMarkup inlineKeyboard = new(
