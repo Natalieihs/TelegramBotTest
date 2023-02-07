@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\A08\\Desktop\\code\\TelegramBotCenter\\TelegramBotCenter\\TelegramBotCenter\\TelegramBotCenter.csproj": {}
+    "C:\\Users\\A08\\Desktop\\code\\TelegramBotTest\\TelegramBotCenter\\TelegramBotCenter\\TelegramBotCenter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\A08\\Desktop\\code\\TelegramBotCenter\\TelegramBotCenter\\TelegramBotCenter\\TelegramBotCenter.csproj": {
+    "C:\\Users\\A08\\Desktop\\code\\TelegramBotTest\\TelegramBotCenter\\TelegramBotCenter\\TelegramBotCenter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\A08\\Desktop\\code\\TelegramBotCenter\\TelegramBotCenter\\TelegramBotCenter\\TelegramBotCenter.csproj",
+        "projectUniqueName": "C:\\Users\\A08\\Desktop\\code\\TelegramBotTest\\TelegramBotCenter\\TelegramBotCenter\\TelegramBotCenter.csproj",
         "projectName": "TelegramBotCenter",
-        "projectPath": "C:\\Users\\A08\\Desktop\\code\\TelegramBotCenter\\TelegramBotCenter\\TelegramBotCenter\\TelegramBotCenter.csproj",
+        "projectPath": "C:\\Users\\A08\\Desktop\\code\\TelegramBotTest\\TelegramBotCenter\\TelegramBotCenter\\TelegramBotCenter.csproj",
         "packagesPath": "C:\\Users\\A08\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\A08\\Desktop\\code\\TelegramBotCenter\\TelegramBotCenter\\TelegramBotCenter\\obj\\",
+        "outputPath": "C:\\Users\\A08\\Desktop\\code\\TelegramBotTest\\TelegramBotCenter\\TelegramBotCenter\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -52,6 +52,10 @@
             "Microsoft.Bot.Configuration": {
               "target": "Package",
               "version": "[4.19.1, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.17.0, )"
             },
             "Telegram.Bot": {
               "target": "Package",
